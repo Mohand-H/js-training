@@ -8,6 +8,7 @@
  */
 
 // Your code :
+const escapeStr='je`n\'ai "pas" /encore\\manger'
 
 //* Begin of tests
 const assert = require('assert')
