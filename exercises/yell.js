@@ -5,6 +5,9 @@
  * and return the same string in upper case
  *
  */
+ const yell = str => str.toUpperCase()
+
+
 
 
 //* Begin of tests

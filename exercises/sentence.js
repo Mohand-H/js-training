@@ -5,6 +5,11 @@
  * and return a string of all the element separated by a space
  *
  */
+ const sentence=(arry)=>{
+  let sentence = arry.join(" ")
+  return sentence
+
+ }
 
 
 //* Begin of tests

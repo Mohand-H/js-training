@@ -9,8 +9,7 @@
  * Example : "How are you ?" -> "How Are You ?"
  *
  */
-
-
+ const jadenCase=()=> ////reste a feire /////
 
 //* Begin of tests
 const assert = require('assert')

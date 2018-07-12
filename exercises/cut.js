@@ -10,6 +10,11 @@
  * https://github.com/nan-academy/refs/blob/master/js-training/methods.md#string---transform
  */
 
+const cutFirst = (str) => str.substring(0, str.length - 2)
+const cutLast = (str) => str.substring(2)
+const cutFirstLast = (str) => str.substring(2, str.length - 2)
+
+
 //* Begin of tests
 const assert = require('assert')
 

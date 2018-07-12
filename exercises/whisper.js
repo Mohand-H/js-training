@@ -6,6 +6,7 @@
  * and wrapped by `*`
  *
  */
+ const whisper = (str) => str.toLowerCase()
 
 
 //* Begin of tests

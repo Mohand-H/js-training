@@ -6,6 +6,10 @@
  * and in lowercase for the rest of the string
  *
  */
+ const capitalize=(str)=>{
+  return str.charAt(0).toUpperCase() + str.slice(1).toLowerCase()
+}
+
 
 
 //* Begin of tests
